@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello!!! Continuous deployment is working...
         </a>
       </header>
     </div>
